@@ -10,13 +10,21 @@ This document provides a detailed technical overview of the "Museo" RESTful API,
 
 ---
 
-## 👥 Development Team - Group 7
+## 👥 Developer
 
-| **Ariana Aylen Pita Vargas |
-| **Maria Jose Sandoval Orellana |
 | **Sebastian Alejandro Arce Antezana |
 
 ---
+
+## 👨‍💻 About This Project & My Role
+
+This project was initially built as a collaborative capstone project. As the **Backend Developer**, my primary focus was designing a robust, scalable, and secure architecture. 
+
+**My Key Contributions:**
+* **Architectural Design:** Implemented the Repository Pattern and Service Layer to enforce the Single Responsibility Principle (SRP).
+* **Data Flow & Serialization:** Solved complex Entity Framework circular reference issues using precise DTO projections.
+* **Security Implementation:** Engineered a stateless authentication system using JWT and Refresh Tokens with BCrypt password hashing.
+* **DevOps:** Containerized the application and database using Docker Compose for seamless local development and deployment.
 
 ## 🏗️ Architecture and Design Decisions
 
